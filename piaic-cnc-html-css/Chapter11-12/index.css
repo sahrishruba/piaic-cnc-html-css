@@ -1,0 +1,28 @@
+.piaic {
+    font-weight: 1000;
+}
+.main-div {
+    margin: auto;
+    max-width: 45%;
+}
+a, a:visited, a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.heading{
+    text-shadow: 0px 3px 3px rgba(38, 38, 41, 0.664);
+}
+
+h2:not(.heading)::first-letter{
+    font-size: 180%;
+}
+
+.cite{
+    margin-left: 38%;
+    
+}
+.cite a{
+    text-decoration: underline;
+    color: blue;
+}

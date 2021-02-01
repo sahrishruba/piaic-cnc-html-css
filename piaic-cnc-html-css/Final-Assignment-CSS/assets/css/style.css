@@ -1,0 +1,268 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+.top-bar {
+  background-color: #212121;
+  color: white;
+  padding: 1.5%;
+}
+
+.call {
+  float: right;
+}
+
+.call-me-btn {
+  border: 0px;
+  background-color: #86ea4b;
+  border-radius: 3px;
+  color: black;
+  padding: 6px;
+}
+
+.social-icons .bi {
+  font-size: larger;
+  padding-left: 20px;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+  overflow: hidden;
+  margin-right: 20px;
+  margin-top: -30px;
+}
+
+.menu ul li {
+  float: right;
+}
+
+.menu ul a {
+  padding: 15px;
+  padding-top: 55px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+.menu ul a:hover {
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}
+
+.advantages span {
+  color: #86ea4b;
+}
+
+.advantages {
+  text-align: center;
+  margin-top: 30px;
+}
+.advantages h2 {
+  font-weight: 900;
+}
+.advantages p {
+  padding: 20%;
+  padding-top: 0%;
+  padding-bottom: 0;
+}
+
+.carousel-inner {
+  max-height: 530px !important;
+  max-width: 100%;
+}
+
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.readmore-button {
+  background-color: #fec700;
+  padding: 10px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 2px solid #ff8000;
+  border-radius: 3px;
+}
+.readmore-button:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.carousel-p {
+  padding: 10px;
+}
+
+.carousel-caption h1 {
+  font-weight: 900;
+}
+.col-sm {
+  padding: 0%;
+}
+.advantages .container .row .col-sm img {
+  width: 180px;
+}
+
+.row p {
+  font-size: medium;
+  padding: 0%;
+}
+
+.aboutus {
+  background-image: url("https://swallowtherapy.com/wp-content/uploads/2016/10/light-grey-abstract-background-hd-pictures-wallpapers-amagico-grey-background-wallpaper-bedroom-for-walls-homebase-designs-living-room-uk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left bottom;
+}
+.aboutus h2 span {
+  color: #86ea4b;
+}
+.aboutus h2 {
+  margin-top: 30px;
+  font-weight: 900;
+}
+
+.center {
+  text-align: center;
+}
+
+#aboutus .row .col-sm img {
+  width: 100%;
+}
+
+#aboutus .row {
+  padding: 5%;
+  padding-top: 0%;
+}
+
+#services {
+  padding: 3% 0%;
+}
+.header-p {
+  padding-left: 17%;
+  padding-right: 17%;
+  font-size:medium;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+#services .container h2 {
+  font-weight: 900;
+}
+
+#services .container span {
+  color: #86ea4b;
+}
+
+
+#services .container .col-sm {
+  padding-right: 1%;
+  padding-left: 1%;
+  background-color: #f2f2f2;
+  margin:50px 10px ;
+  padding-bottom: 2%;
+}
+
+#services .container .col-sm img {
+  position: absolute;
+  width: 60px;
+  margin-top: -60px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#services .container .col-sm {
+  padding: 30px 0px;
+}
+
+#services .container p {
+  padding-bottom: 15px;
+}
+
+#portfolio span {
+  color:#86ea4b;
+}
+#portfolio h2 {
+  font-weight: 900;
+}
+#portfolio {
+  background-color:#212121;
+  color: white;
+}
+#portfolio p {
+  color:#bcbec0;
+}
+#packages {
+  background-color: #f1f1f1;
+  margin-top: 0%;
+  padding: 15px;
+}
+.end-line{
+  border: 1px solid green;
+  max-width: 5%;
+  margin: auto;
+}
+
+p{
+  margin-bottom: 0% !important;
+}
+
+.package {
+  background-color: white;
+  border: 1px solid lightgrey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.package ul{
+  list-style-type: none;
+  padding-inline-start: 0% !important;
+}
+#packages h2 {
+  font-weight: 900;
+}
+.sale{
+  font-size: 32px;
+  font-weight: 900;
+  color: #63e206;
+}
+.package a {
+  background-color: #4662f8;
+  text-decoration: none;
+  color: white;
+  padding: 3%;
+  border-radius: 5px;
+}
+.package a:hover {
+  text-decoration: none;
+  color: white;
+
+}
+
+.viewall {
+  background-color: #63e206;
+  padding: 1%;
+  border-radius: 6px;
+  margin-top: 2%;
+  color: white;
+}
+#packages .col-sm{
+  padding: 0%;
+}
+.mid {
+  border:1px solid blue;
+  margin-top: -20px;
+}
+#padding-btm {
+  margin-bottom: 20px;
+}
+#process-p {
+  padding: 0% 20%;
+}
+#process img {
+  width: 54px;
+}
